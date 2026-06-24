@@ -39,3 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Technology Stack
 NextJS + MongoDB + Typescript
+
+
+## Deployment
+https://todo-nextjs-example.vercel.app/login
